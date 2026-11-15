@@ -1,0 +1,4 @@
+vehicle_id,type,arrival,departure,battery_kwh,soc_now_pct,soc_target_pct,max_rate_kw
+R01,e-rickshaw,19:00,07:00,9.0,20,100,3.3
+C01,car,18:30,08:00,45.0,30,90,7.2
+B01,e-bus,21:00,05:30,250.0,25,90,60.0
